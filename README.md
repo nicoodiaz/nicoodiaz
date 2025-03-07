@@ -27,6 +27,6 @@ Estas son algunas de las herramientas y tecnologías con las que me encanta trab
 ¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 😊
 
 - 📧 **Email**: [nicolas0405.nd@gmail.com](mailto:nicolas0405.nd@gmail.com)  
-- 💼 **LinkedIn**: [Roberto Nicolas Diaz en LinkedIn](www.linkedin.com/in/nicoo-diaz)  
+- 💼 **LinkedIn**: [Roberto Nicolas Diaz en LinkedIn](https://www.linkedin.com/in/nicoo-diaz/)  
   
 - 🌐 **Portfolio**: [En construcción...](#)
